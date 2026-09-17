@@ -1,4 +1,4 @@
--- Creación de tablas para SQLite
+-- Creación de tablas para SQLite (Actualizado con días y horarios)
 
 CREATE TABLE IF NOT EXISTS socios (
     id_socio INTEGER PRIMARY KEY AUTOINCREMENT,
